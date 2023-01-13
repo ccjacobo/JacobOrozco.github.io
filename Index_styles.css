@@ -4,53 +4,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-h1, h2 {
+h1, h2, p {
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #00ccff;
-}
-
-a {
-  color: #00ccff;
-  text-decoration: none;
-  transition: 0.2s ease-in-out;
-}
-
-a:hover {
-  color: #ffffff;
-}
-
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.card {
-  background-color: #333333;
-  border-radius: 10px;
-  box-shadow: 0px 0px 15px #00ccff;
-  padding: 20px;
-  margin: 20px;
-  flex-basis: calc(33.33% - 40px);
-}
-
-.btn {
-  background-color: #00ccff;
-  color: #ffffff;
-  padding: 10px 20px;
-  border-radius: 20px;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  font-weight: bold;
-  transition: 0.2s ease-in-out;
-}
-
-.btn:hover {
-  background-color: #ffffff;
-  color: #00ccff;
-  cursor: pointer;
 }
