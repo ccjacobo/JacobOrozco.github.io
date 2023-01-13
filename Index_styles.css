@@ -6,7 +6,7 @@ body {
 
 .h1, .h2{
   font-family: 'Eurostile', sans-serif;
-  font-weight: bold;
+  font-weight: lighter;
   font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 2px;
