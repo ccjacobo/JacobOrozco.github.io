@@ -26,8 +26,8 @@ button{
 .h4{
   font-family: 'Georgia', sans-serif;
   font-weight: lighter;
-  font-size: 15px;
-  text-transform: lowercase;
+  font-size: 11px;
+  text-transform: uppercase;
   letter-spacing: 1px;
   color: #aeb986;
 }
