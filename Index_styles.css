@@ -44,8 +44,8 @@ button{
   align-items: center;
 }
 .bio-image{
-  width: 1250px;
-  height: 1250px;
+  width: 1050px;
+  height: 1050px;
   margin-left: auto;
   /* you can add other properties to style the image */
 }
