@@ -39,3 +39,13 @@ button{
   letter-spacing: 1px;
   color: #aeb986;
 }
+.text-image-container{
+  display: flex;
+  align-items: center;
+}
+.bio-image{
+  width: 250px;
+  height: 250px;
+  margin-left: auto;
+  /* you can add other properties to style the image */
+}
