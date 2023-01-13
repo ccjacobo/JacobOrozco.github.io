@@ -23,3 +23,11 @@ button{
   height: 1/50th; /* You can also use % or vw/vh as height */
   border-radius: 25px; /* You can adjust the value to make it more or less rounded */
 }
+.h4{
+  font-family: 'Georgia', sans-serif;
+  font-weight: lighter;
+  font-size: 15px;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+  color: #aeb986;
+}
