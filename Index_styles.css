@@ -31,3 +31,11 @@ button{
   letter-spacing: 1px;
   color: #aeb986;
 }
+.small-header{
+  font-family: 'Georgia', sans-serif;
+  font-weight: lighter;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #aeb986;
+}
