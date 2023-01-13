@@ -18,5 +18,7 @@ button{
   margin: 8px 0;
   border: none;
   cursor: pointer;
-  width: 100%;
+  width: 1/50th; /* You can also use % or vw/vh as width */
+  height: 1/50th; /* You can also use % or vw/vh as height */
+  border-radius: 25px; /* You can adjust the value to make it more or less rounded */
 }
