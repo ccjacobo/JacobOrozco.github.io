@@ -7,7 +7,7 @@ body {
 .h1, .h2{
   font-family: 'Eurostile', sans-serif;
   font-weight: 'bolder';
-  font-size: 100px;
+  font-size: 50px;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #00ccff;
@@ -26,7 +26,7 @@ button{
 .h4{
   font-family: 'Georgia', sans-serif;
   font-weight: lighter;
-  font-size: 110px;
+  font-size: 25px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #aeb986;
@@ -34,7 +34,7 @@ button{
 .small-header{
   font-family: 'Georgia', sans-serif;
   font-weight: lighter;
-  font-size: 60px;
+  font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #aeb986;
