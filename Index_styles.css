@@ -7,7 +7,7 @@ body {
 .h1, .h2{
   font-family: 'Eurostile', sans-serif;
   font-weight: 'bolder';
-  font-size: 40px;
+  font-size: 400px;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #00ccff;
@@ -26,7 +26,7 @@ button{
 .h4{
   font-family: 'Georgia', sans-serif;
   font-weight: lighter;
-  font-size: 11px;
+  font-size: 110px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #aeb986;
@@ -34,7 +34,7 @@ button{
 .small-header{
   font-family: 'Georgia', sans-serif;
   font-weight: lighter;
-  font-size: 20px;
+  font-size: 200px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #aeb986;
@@ -44,8 +44,8 @@ button{
   align-items: center;
 }
 .bio-image{
-  width: 1000px;
-  height: 1000px;
+  width: 1500px;
+  height: 1500px;
   margin-left: auto;
   /* you can add other properties to style the image */
 }
