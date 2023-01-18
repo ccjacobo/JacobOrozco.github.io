@@ -12,6 +12,18 @@ body {
   letter-spacing: 2px;
   color: #00ccff;
 }
+a{
+  background-color: rgb(62, 112, 177);
+  color: rgb(254, 245, 251);
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 1/50th; /* You can also use % or vw/vh as width */
+  height: 1/50th; /* You can also use % or vw/vh as height */
+  border-radius: 25px; /* You can adjust the value to make it more or less rounded */
+}
+
 button{
   background-color: rgb(62, 112, 177);
   color: rgb(254, 245, 251);
