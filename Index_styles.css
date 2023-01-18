@@ -13,15 +13,15 @@ body {
   color: #00ccff;
 }
 a{
-  background-color: rgb(62, 112, 177);
+  background-color: rgb(24, 67, 123);
   color: rgb(254, 245, 251);
-  padding: 14px 20px;
-  margin: 8px 0;
+  padding: 12px 28px;
+  margin: 6px 0;
   border: none;
   cursor: pointer;
-  width: 1/50th; /* You can also use % or vw/vh as width */
-  height: 1/50th; /* You can also use % or vw/vh as height */
-  border-radius: 25px; /* You can adjust the value to make it more or less rounded */
+  width: 1/60th; /* You can also use % or vw/vh as width */
+  height: 1/60th; /* You can also use % or vw/vh as height */
+  border-radius: 15px; /* You can adjust the value to make it more or less rounded */
 }
 
 button{
