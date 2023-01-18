@@ -21,7 +21,7 @@ a{
   cursor: pointer;
   width: 1/50th; /* You can also use % or vw/vh as width */
   height: 1/50th; /* You can also use % or vw/vh as height */
-  border-radius: 15px; /* You can adjust the value to make it more or less rounded */
+  border-radius: 25px; /* You can adjust the value to make it more or less rounded */
 }
 
 button{
